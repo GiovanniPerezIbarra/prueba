@@ -1,0 +1,22 @@
+CREATE DATABASE ProveedoresProductos
+
+USE [ProveedoresProductos]
+CREATE TABLE [dbo].[Proveedor](
+[IdProveedor] [bigint] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+[codigo] [varchar](20) NOT NULL CONSTRAINT cod UNIQUE,
+[razon_social] [varchar](150) NOT NULL,
+[rfc] [varchar](13) NOT NULL
+) ON [PRIMARY]
+GO
+
+CREATE TABLE [dbo].[Productos](
+[IdProducto] [bigint] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+[IdProveedor] [bigint] NOT NULL CONSTRAINT prov UNIQUE,
+[codigo] [varchar](20) NOT NULL CONSTRAINT codpro UNIQUE,
+[descripcion] [varchar](150) NOT NULL,
+[unidad] [varchar](3) NOT NULL,
+[costo] [decimal] (9,2) NOT NULL
+) ON [PRIMARY]
+GO
+
+ALTER TABLE Productos ADD FOREIGN KEY (IdProveedor) REFERENCES Proveedor (IdProveedor)

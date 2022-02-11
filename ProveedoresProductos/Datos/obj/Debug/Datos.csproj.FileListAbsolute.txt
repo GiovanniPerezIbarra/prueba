@@ -1,0 +1,15 @@
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\Datos.dll.config
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\Datos.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\Datos.pdb
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\Entidades.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\Entidades.pdb
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\Entidades.dll.config
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\obj\Debug\Datos.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Datos\obj\Debug\Datos.pdb

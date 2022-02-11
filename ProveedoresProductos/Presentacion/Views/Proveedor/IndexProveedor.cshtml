@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Entidades.Proveedor>
+
+@{
+    ViewBag.Title = "Inicio";
+}
+
+<h2>Lista de proveedores</h2>
+
+<p>
+    @Html.ActionLink("Agregar proveedor", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdProveedor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.razon_social)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.rfc)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdProveedor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.codigo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.razon_social)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.rfc)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.IdProveedor }) |
+            @Html.ActionLink("Ver productos", "../Productos/IndexProductos", new { id=item.IdProveedor }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.IdProveedor })
+        </td>
+    </tr>
+}
+
+</table>

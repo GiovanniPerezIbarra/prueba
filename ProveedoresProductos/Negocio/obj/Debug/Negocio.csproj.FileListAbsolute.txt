@@ -1,0 +1,15 @@
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\Datos.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\Entidades.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\Entidades.dll.config
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gerardo\source\repos\ProveedoresProductos\Negocio\obj\Debug\Negocio.pdb
